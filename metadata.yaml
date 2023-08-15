@@ -1,11 +1,16 @@
 _repo: The-last-crash_71313
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71313-h/images/cover.jpg
 creator:
   author:
     agent_name: Latour, Kenneth
     gutenberg_agent_id: '56171'
     url: http://www.gutenberg.org/2009/agents/56171
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71313#The-last-crash
 gutenberg_issued: '2023-08-01'
 identifiers:
   gutenberg: '71313'
